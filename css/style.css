@@ -32,6 +32,32 @@ body, html {
   background-size: cover;
 }
 
+.fullscreen-img-2 {
+  /* The image used */
+  background-image: url("../img/mountaintop.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.fullscreen-img-3 {
+  /* The image used */
+  background-image: url("../img/lookingovermountain.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .black-shadow {
     text-shadow: 1px 1px 2px rgb(0, 0, 0);
 }
@@ -46,5 +72,4 @@ object-fit: cover;
 overflow: hidden;
 color: white;
 }
-
 
